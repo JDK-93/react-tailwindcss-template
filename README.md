@@ -1,6 +1,14 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
+Dependencies and configurations necessary to use [Tailwind CSS](https://tailwindcss.com/) have been added.\
+To use it: 
+```
+git clone git@github.com:JDK-93/react-coincap-viewer.git
+cd react-coincap-viewer
+npm install
+```
+More [information](https://tailwindcss.com/docs/guides/create-react-app).
 
 ## Available Scripts
 
@@ -28,6 +36,7 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
 
 ### `npm run eject`
 
