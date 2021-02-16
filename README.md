@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Dependencies and configurations necessary to use [Tailwind CSS](https://tailwindcss.com/) have been added.\
 To use it: 
 ```
-git clone git@github.com:JDK-93/react-coincap-viewer.git
+git clone git@github.com:JDK-93/react-tailwindcss-template.git
 cd react-coincap-viewer
 npm install
 ```
