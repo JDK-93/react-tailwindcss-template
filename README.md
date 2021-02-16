@@ -4,7 +4,7 @@ but modified for using [Tailwind CSS](https://tailwindcss.com/).
 To use it: 
 ```
 git clone git@github.com:JDK-93/react-tailwindcss-template.git
-cd react-coincap-viewer
+cd react-tailwindcss-template
 npm install
 ```
 More [information](https://tailwindcss.com/docs/guides/create-react-app).
