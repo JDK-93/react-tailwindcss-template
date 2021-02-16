@@ -1,7 +1,6 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
-Dependencies and configurations necessary to use [Tailwind CSS](https://tailwindcss.com/) have been added.\
+# Template for using Tailwind CSS with React
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app),\
+but modified for using [Tailwind CSS](https://tailwindcss.com/).
 To use it: 
 ```
 git clone git@github.com:JDK-93/react-tailwindcss-template.git
